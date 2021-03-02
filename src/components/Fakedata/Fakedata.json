@@ -1,0 +1,122 @@
+[{
+    "id": 1,
+    "name": "Sakib Al Hasan",
+    "country": "Bangladesh",
+    "category": "all-rounder",
+    "salary": 922626,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg",
+    "isAdded":false
+
+  }, {
+    "id": 2,
+    "name": "Glenn Maxwell",
+    "country": "Australia",
+    "category": "Batsman",
+    "salary": 107798,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170641/glenn-maxwell.jpg",
+    "isAdded":false
+  }, {
+    "id": 3,
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "category": "batsman",
+    "salary": 904269,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170899/tamim-iqbal.jpg",
+    "isAdded":false
+  }, {
+    "id": 4,
+    "name": "Virat Kohli",
+    "country": "India",
+    "category": "Batsman",
+    "salary": 294224,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170661/virat-kohli.jpg",
+    "isAdded":false
+  }, {
+    "id": 5,
+    "name": "Mustafiz Rahman",
+    "country": "Bangladesh",
+    "category": "Bowler",
+    "salary": 679735,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170925/mustafizur-rahman.jpg",
+    "isAdded":false
+  }, {
+    "id": 6,
+    "name": "Rashid Khan",
+    "country": "Afganistan",
+    "category": "Bowler",
+    "salary": 295211,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170857/rashid-khan.jpg",
+    "isAdded":false
+  }, {
+    "id": 7,
+    "name": "Chris Gayle",
+    "country": "West Indies",
+    "category": "all-rounder",
+    "salary": 444206,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170801/chris-gayle.jpg",
+    "isAdded":false
+  }, {
+    "id": 8,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "category": "Bowler",
+    "salary": 146750,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170651/pat-cummins.jpg",
+    "isAdded":false
+  }, {
+    "id": 9,
+    "name": "Steven Smith",
+    "country": "Australia",
+    "category": "All-rounder",
+    "salary": 148376,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170624/steven-smith.jpg",
+    "isAdded":false
+  }, {
+    "id": 10,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "category": "Bowler",
+    "salary": 729806,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170685/jasprit-bumrah.jpg",
+    "isAdded":false
+  }, {
+    "id": 11,
+    "name": "AB de Villiers",
+    "country": "South Africa",
+    "category": "Batsman",
+    "salary": 795939,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170999/ab-de-villiers.jpg",
+    "isAdded":false
+  }, {
+    "id": 12,
+    "name": "Musfiqur Rahim",
+    "country": "Bangladesh",
+    "category": "Keeper-Batsman",
+    "salary": 891883,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170916/mushfiqur-rahim.jpg",
+    "isAdded":false
+  }, {
+    "id": 13,
+    "name": "Josh Butler",
+    "country": "England",
+    "category": "Keeper-Batsman",
+    "salary": 181686,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170980/jos-buttler.jpg",
+    "isAdded":false
+  }, {
+    "id": 14,
+    "name": "Shahid Afridi",
+    "country": "Pakistan",
+    "category": "All-rounder",
+    "salary": 209185,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c146389/shahid-afridi.jpg",
+    "isAdded":false
+  }, {
+    "id": 15,
+    "name": "Rohit Sharma",
+    "country": "India",
+    "category": "Batsman",
+    "salary": 961624,
+    "image": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170658/rohit-sharma.jpg",
+    "isAdded":false
+  }]
